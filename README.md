@@ -1,5 +1,4 @@
 <img src="https://github.com/samuelfox30/samuelfox30/assets/88406978/97268e6b-5bbf-46e5-8cc0-1860483b6f68" alt="Imagem" style="width: 100%;">
-<div display="flex" justify-content="center" height="30px" width="100%" background="linear-gradient(to bottom, rgba(0,255,0,1) 0%, rgba(0,0,0,1) 100%)"></div>
 
 ## Hi! I'm Samuel Gama 👋🏻
 
