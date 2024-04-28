@@ -1,4 +1,4 @@
-<img src="https://github.com/samuelfox30/samuelfox30/assets/88406978/5703358a-1e1f-452b-b27c-b18e28b206dd" alt="Imagem" style="width: 100%;">
+<img src="https://github.com/samuelfox30/samuelfox30/assets/88406978/97268e6b-5bbf-46e5-8cc0-1860483b6f68" alt="Imagem" style="width: 100%;">
 
 ## Hi! I'm Samuel Gama 👋🏻
 
