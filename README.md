@@ -1,3 +1,5 @@
+![gif-teste-fundo](https://github.com/samuelfox30/samuelfox30/assets/88406978/382b6b8e-5c16-44aa-9c62-fa2b8badfd79)
+
 ## Hi! I'm Samuel Gama 👋🏻
 
 [![Portifolio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://samuelfox30.github.io/)
