@@ -2,8 +2,8 @@
 
 💻 Junior Developer <br>
 👤 17 Years old <br>
-🖥️ Studyng Computer Technology at IFES Institute <br>
-......(Cursando Técnico em Informática no IFES - Campus Serra, ES) <br>
+🖥️ Computer Technology at IFES Institute <br>
+......(Cursando Defesa Ciberbética na FIAP (Paulista)) <br>
 
 ##
 
