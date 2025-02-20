@@ -1,7 +1,7 @@
 # Hi! I'm Samuel Gama 👋🏻 [![Portifolio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://samuelfox30.github.io/)
 
 💻 Junior Developer <br>
-👤 16 Years old <br>
+👤 17 Years old <br>
 🖥️ Studyng Computer Technology at IFES Institute <br>
 ......(Cursando Técnico em Informática no IFES - Campus Serra, ES) <br>
 
